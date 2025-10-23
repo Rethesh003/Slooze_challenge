@@ -86,3 +86,6 @@ git clone https://github.com/Rethesh003/Slooze_Challenge.git
 
 # Open the notebook
 jupyter notebook Slooze_Challenge.ipynb
+
+#View in the Notebook
+http://localhost:8888/tree/Downloads/slooze

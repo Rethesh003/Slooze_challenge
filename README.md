@@ -6,7 +6,7 @@ This repository contains a complete **Data Science / Analytics** solution for th
 - `data/` : Contains all input CSVs.
 - `output/` : Stores generated CSVs from analysis.
 - `Slooze_Challenge.ipynb` : Main Jupyter notebook with all analyses.
-- `.gitignore` : Ignores unnecessary files.
+  
 
 ## Analyses Included
 1. Demand Forecasting (Monthly & Product/Store)

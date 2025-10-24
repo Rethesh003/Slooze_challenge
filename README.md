@@ -1,7 +1,7 @@
 # 📊 Slooze Challenge 
 
 ### 🧠 Project Overview  
-This project is a **Data Science / Analytics case study** focused on improving inventory management and sales forecasting for Slooze.  
+This project is a **Data Science / Analytics case study** focused on improving Inventory optimization, purchase, Sales Analysis and sales forecasting given by Slooze.  
 Analyzed multiple datasets related to purchases, inventory, sales, and vendors to uncover **actionable insights** that can optimize business operations.
 
 ---
@@ -16,7 +16,7 @@ Analyzed multiple datasets related to purchases, inventory, sales, and vendors t
 | `PurchasesFINAL12312016.csv` | Purchase transactions |
 | `SalesFINAL12312016.csv` | Sales data for all products |
 
-All files are stored inside the **`data/`** folder.
+These are Data sets given by slooze due to larger in size listed their names
 
 ---
 
@@ -50,6 +50,12 @@ All files are stored inside the **`data/`** folder.
 - Identified **seasonal peaks** (high-demand months).
 
 ---
+## Other Analysis:
+1. **01_sales_analysis.ipynb** – Explores total revenue, category-wise profit, and seasonal trends using pivot tables and visual charts.
+2. **02_customer_behavior.ipynb** – Segments customers by purchase frequency, recency, and value to uncover retention opportunities.
+3. **03_inventory_optimization.ipynb** – Identifies under- and over-stocked products and recommends reorder levels based on demand patterns.
+4. **04_marketing_performance.ipynb** – Measures campaign ROI, CTR, and conversion efficiency across multiple channels.
+5. **05_final_summary_report.ipynb** – Combines insights from all notebooks to produce executive-level summaries and visual dashboards.
 
 ## 📈 Key Visualizations
 ✅ Monthly sales trend (moving average)  
